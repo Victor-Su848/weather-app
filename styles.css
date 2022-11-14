@@ -1,0 +1,46 @@
+* {
+    
+}
+body {
+    background-color:#3484F0;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    
+}
+/*app styles*/
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.app h1 {
+    font-size: 2.5rem;
+}
+/*form styles*/
+.app form {
+    margin: 50px auto;
+}
+.app form input {
+    -webkit-appearance: none;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+}
+.app form button {
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+    border-style: solid;
+}
+.app form button:hover {
+    cursor: pointer;
+}
+/*end of form styles*/
+/*info styles*/
+.info h2 {
+    font-size: 2rem;
+}
+/*end of info styles*/
+/*end of app styles*/
