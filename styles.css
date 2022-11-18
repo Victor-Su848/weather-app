@@ -13,7 +13,6 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 50px;
-  border: 1px solid red;
 }
 .app h1 {
   font-size: 2.5rem;
